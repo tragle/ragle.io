@@ -1,3 +1,7 @@
+:root {
+  --href-color: midnightblue;
+}
+
 body {
   font-family: 'Bookman', 'Bookman Old Style', 'Garamond', serif;
   font-size: large;
@@ -19,7 +23,7 @@ h1 {
 }
 
 a {
-  color: navy;
+  color: var(--href-color, blue);
 }
 
 h1 > a {
@@ -28,8 +32,19 @@ h1 > a {
 }
 
 h1 > a:hover {
-  color:  navy;
+  color: var(--href-color, blue);
   text-decoration: underline;
+}
+
+h1:after {
+  content: ' #';
+  color: var(--href-color, blue);
+  visibility: hidden;
+}
+
+h1:hover:after {
+  visibility: visible;
+  opacity: 0.5;
 }
 
 h4 {
