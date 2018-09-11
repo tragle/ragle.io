@@ -7,7 +7,7 @@ const showdown = require('showdown');
 showdown.setFlavor('github');
 const converter = new showdown.Converter();
 
-const contact = '<a id="contact" href="mailto:tom@ragle.io">contact</a>';
+const contact = '<a id="contact" href="mailto:tragle@gmail.com">contact</a>';
 const home = '<a id="home" href="/">home</a>';
 const footer = `<footer>${contact} ${home}</footer>`;
 const footerHome = `<footer>${contact}</footer>`;
