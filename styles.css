@@ -4,7 +4,7 @@
 
 body {
   font-family: 'Bookman', 'Bookman Old Style', 'Garamond', serif;
-  font-size: large;
+  font-size: 30px;
   background-color: snow;
   border-top: 20px ridge beige;
   border-bottom: 20px ridge beige;
@@ -18,8 +18,16 @@ body > * {
 }
 
 @media only screen and (min-device-width 480px) {
+  body {
+    font-size: 20px;
+  }
+
   body > * {
     margin: 20px 20%;
+  }
+
+  pre {
+    font-size: 20px
   }
 }
 
@@ -80,7 +88,7 @@ p::last::after {
 }
 
 pre {
-  font-size: large;
+  font-size: 30px;
   margin-top: 40px;
   margin-bottom: 40px;
   background-color: floralwhite; 
