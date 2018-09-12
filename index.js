@@ -26,7 +26,7 @@ app.get('/', (req, res) => {
   });
 });
 
-app.get('/:article', (req, res) => {
+app.get('/articles/:article', (req, res) => {
   const file = path.join(__dirname, 'articles', `${req.params.article}.md`);
   fs.readFile(file, (err, data) => {
     const styles = `<style>${fs.readFileSync(path.join(__dirname, 'styles.css')).toString()}</style>`;

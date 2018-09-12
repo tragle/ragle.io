@@ -1,4 +1,4 @@
-<h1><a href="1-my-first-computer">My first computer</a></h1>
+<h1><a href="/articles/1-my-first-computer">My first computer</a></h1>
 
 #### Sunday, September 9, 2018
 
@@ -11,7 +11,7 @@ repeat 4 [forward 50 right 90]
 I didn't learn that much about Logo because, without the Atari computer, I didn't have a way of practicing outside of class. Then, one lucky Christmas, I received a metallic TI-99/4A home computer. It came with a single game cartridge, I think _Defender_. 
 
 <figure>
-  <img src="./img/TI99.jpg" alt="TI-99/4A" />
+  <img src="/img/TI99.jpg" alt="TI-99/4A" />
   <figcaption>TI-99/4A</figcaption>
 </figure>
 
@@ -49,7 +49,7 @@ To stop the `TOM IS AWESOME`, you had to reset the computer. But with this first
 The TI-99/4A came with an instruction manual listing all the BASIC commands, called _Beginner's BASIC_, but I didn't really know how to put the commands together to do more interesting things. However, a magazine called _99'er_ existed for TI-99/4A enthusiasts, and a large portion of each issue of _99'er_ consisted of printed code for small programs. I had a couple of copies of this magazine. 
 
 <figure>
-  <img src="./img/Beginners_BASIC.png" alt="Beginner's BASIC" />
+  <img src="/img/Beginners_BASIC.png" alt="Beginner's BASIC" />
   <figcaption>Beginner's BASIC</figcaption>
 </figure>
 
