@@ -81,8 +81,13 @@ Eventually I wanted to create non-random music, and in the appendix of _Beginner
 
 You could buy really nice peripherals for the TI-99/4A, but they cost a lot of money. Magazine ads showed fully decked-out systems with hard drives, speech synthesizers, and modems. These setups cost thousands of dollars. I didn't have that kind of money, but I did have a tape recorder and an inexpensive "cassette interface cable." 
 
+<figure>
+  <img src="/img/kevinvonerich.jpg" alt="Kevin Von Erich" />
+  <figcaption>Kevin Von Erich</figcaption>
+</figure>
+
 To save a program, you would plug the tape recorder into the side of the computer with the cable, follow the on-screen instructions, and hit the RECORD button on the tape recorder. To load the program, you'd do the same thing. You could listen to the program on the cassette, too -- it had a sort of mysterious, staccato hiss. With the tape storage, I thought I had a pretty effective setup, lacking only a modem. 
 
-Eventually my family got a clone of the IBM XT, larger and more powerful than the TI-99/4A. But I didn't have quite as much fun with the XT. The TI-99/4A had given me that first thrill of discovery, when the program runs without crashing and the computer briefly seems to become a living creature. Over the years I would come back to programming again and again to relive that feeling.
+Eventually my family got a clone of the IBM XT, larger and more powerful than the TI-99/4A. But I didn't have quite as much fun with the XT. The TI-99/4A had given me that first thrill of discovery, when the program runs without crashing and the computer briefly seems to become a living creature. Over the years I have come back to programming again and again to relive that feeling.
 
 ##### TR
