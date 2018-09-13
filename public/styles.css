@@ -12,7 +12,6 @@ body {
   overflow-x: hidden;
   box-sizing: border-box;
   font-family: var(--font, serif)
-  font-size: large;
   background-color: var(--background, white);
   border-top: 10px var(--border-style);  
   border-bottom: 10px var(--border-style);  
@@ -31,11 +30,13 @@ img {
 
 main {
   margin: 0 10px;
+  font-size: large;
 }
 
 pre {
   background-color: var(--pre-background);
   padding: 5px 2px;
+  white-space: pre-wrap;
 }
 
 figure {
@@ -47,7 +48,7 @@ figure {
 
 figcaption {
   font-style: italic;
-  font-size: normal;
+  font-size: medium;
 }
 
 a {
@@ -84,7 +85,7 @@ h1:hover:after {
 h4 {
   text-align: center;
   font-style: italic;
-  font-size: normal;
+  font-size: medium;
   font-weight: 100;
   margin-top: 40px;
   margin-bottom: 40px;
