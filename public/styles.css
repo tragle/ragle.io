@@ -48,6 +48,7 @@ p, pre {
 p {
   font-size: 18px;
   text-align: justify;
+  hyphens: auto; 
 }
 
 p:first-of-type {
