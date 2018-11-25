@@ -19,7 +19,10 @@ Who has not visited a place like this in sleep or near-sleep? I believe we all h
 
 As a teenager, I lived for a couple of years near Maastricht, in The Netherlands. I still have strong memories of these formative years, and in my dreams will sometimes find myself wandering on the old limestone bridge in the Centrum of Maastricht, as I did as a moody 15 year-old in 1987, watching the river flow beneath the bridge’s arches, ephemeral currents of time in an older, more solid, more eternal world. And elements of the building on the hill — the stonework, the old world-ness — recall this bridge. They seem connected, equally realer-than-real.
 
-<Sint Servaasbrug>
+<figure>
+  <img src="/img/Sint_Servaasbrug.jpg" alt="Sint Servaasbrug" />
+  <figcaption>Sint Servaasbrug</figcaption>
+</figure>
 
 In the Maastricht of my dreams, I see, or more accurately sense, throngs of indistinct people milling about. I do not interact with them, and I can’t tell, or don’t care, whether they can see me. But if they could, I wonder if the sight of me would frighten them, like a ghost. I feel like a being on a different level of consciousness in their midst, as if my spirit walked that bridge in a perpetual 1987. I see their brightly colored jackets, I hear their low, murmuring voices. 
 
@@ -42,11 +45,16 @@ But what about the places we don’t want to remain?
 <p class="author">Dr. Christine Blasey Ford</p>
 </blockquote>
 
-I’ll relate one more dream, a place I have not visited in a long time. My childhood hometown sits next to a large reservoir, Grapevine Lake, contained by a long earthen and cement dam. A road runs along the top of the dam, and I remember seeing, from the safety of the car, the mammoth pipes and metal gates that opened out onto a rubble-strewn spillway on the dry side of the dam. 
+I’ll relate one more dream, a place I have not visited in a long time. My childhood hometown sits next to a large reservoir, Grapevine Lake, contained by a long earthen dam. A road runs along the top of the dam, and I remember seeing, from the safety of the car, the mammoth pipes and metal gates that opened out onto a rubble-strewn spillway on the dry side of the dam. 
 
 Something about the scale of the waterworks, the crushing power of the lake pushing against this thin, man-made structure, and the mysterious controls which could unleash the power of the entire reservoir — something about this dam inspired a deep-felt terror in me. I would imagine myself taken up in the current, my ragdoll body pulled deep into vast, inescapable pipes. The dam symbolized all things awe-inspiring and dangerous. 
 
 And so I in my sleep I would find myself there, not crushed beneath the water, but simply facing the dam as if it had a kind of uncaring consciousness, like a waking giant who roars the deep, shattering roar of millions of tons of water tumbling onto the naked flood plain far below. 
+
+<figure>
+  <img src="/img/Grapevine_Lake_dam.jpg" alt="Grapevine Lake" />
+  <figcaption>Grapevine Lake</figcaption>
+</figure>
 
 Standing on the dam, on the border between placid reflection and certain annihilation, I witnessed the dark order of things larger than myself. What could I control? Nothing that matters, ultimately — and so as a child, amid the turbulences of broken homes and social isolation, and later as an adult trapped in the whirlpools of daily survival, I have visited this place and understood in some way the colossal force that I long to break free from.
 
