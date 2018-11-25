@@ -9,11 +9,6 @@ const showdown = require('showdown');
 showdown.setFlavor('github');
 const converter = new showdown.Converter();
 
-const contact = '<a id="contact" href="mailto:tragle@gmail.com">contact</a>';
-const home = '<a id="home" href="/">home</a>';
-const footer = `<footer>${contact} ${home}</footer>`;
-const footerHome = `<footer>${contact}</footer>`;
-
 app.use(express.static(path.join(__dirname, 'public')));
 
 const formatArticle = (md) => {
@@ -26,17 +21,17 @@ const formatArticle = (md) => {
 const formatArticlePage = (md) => {
   const article = formatArticle(md);
   const main = `<main>${article}</main>`;
-  return `${main}${footer}`;
+  return `${main}`;
 };
 
 const formatHomePage = (md) => {
   const article = formatArticle(md);
   const main = `<main>${article}</main>`;
-  return `${main}${footerHome}`;
+  return `${main}`;
 };
 
 app.get('/', (req, res) => {
-  const file = path.join(__dirname, 'articles', '1-my-first-computer.md');
+  const file = path.join(__dirname, 'articles', '2-who-has-not-visited-a-place-like-this.md');
   fs.readFile(file, (err, data) => {
     res.append('Content-Type', 'text/html');
     const text = data.toString();

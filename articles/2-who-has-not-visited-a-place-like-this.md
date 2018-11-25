@@ -1,8 +1,10 @@
-# Who has not visited a place like this?
+<h1><a href="/articles/2-who-has-not-visited-a-place-like-this">Who has not visited a place like this?</a></h1>
+
+#### November 24, 2018
 
 <blockquote>
 <p>Every dreamer knows that it is entirely possible to be homesick for a place you’ve never been to, perhaps more homesick than for familiar ground.</p>
-<p>Judith Thurman</p>
+<p class="author">Judith Thurman</p>
 </blockquote>
 
 Last night, on the edge of sleep, when the mind begins to ignore the sounds of the room and turn its attention to the rising dream-state within, in that fleeting, oft-forgotten time flickering like a candle from waking to hallucination, I saw a place. 
@@ -37,7 +39,7 @@ But what about the places we don’t want to remain?
 
 <blockquote>
 <p>I remember being on the street and feeling an enormous sense of relief that I had escaped from the house.</p>
-<p>Dr. Christine Blasey Ford</p>
+<p class="author">Dr. Christine Blasey Ford</p>
 </blockquote>
 
 I’ll relate one more dream, a place I have not visited in a long time. My childhood hometown sits next to a large reservoir, Grapevine Lake, contained by a long earthen and cement dam. A road runs along the top of the dam, and I remember seeing, from the safety of the car, the mammoth pipes and metal gates that opened out onto a rubble-strewn spillway on the dry side of the dam. 
@@ -53,3 +55,11 @@ Who has not visited a place like this? My life has had its small share of trauma
 And I must reflect, too, on my own words and deeds, and whether they have inflected harm on others. Because we carry this psychic harm, we visit it in the most timeless places of our existence, and there it lives forever. I can think of nothing worse than to turn another’s mind into a prison, to sentence them to revisiting a place they should never have seen. And yet we do it all the time. Nothing compares to the hells we create for others.
 
 And I wonder if, in the last moments of dying, we lose the faculty of time, and so gain some kind of final timelessness. Do we experience true eternity then, a moment stretching back to the beginning of our lives, and in that moment do we perhaps visit one more place on that threshold of consciousness, a realer-than-real place? What will this place look like for each of us? Will it look like a nightmare? Will it look familiar? Will we feel relief? 
+
+##### TR
+
+<footer>
+<a href="/articles/1-my-first-computer">previous</a>
+<a id="home" href="/">home</a>
+<a id="contact" href="mailto:tragle@gmail.com">contact</a>
+</footer>
