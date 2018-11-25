@@ -113,10 +113,20 @@ footer > * {
   max-width: var(--line-width);
 }
 
-blockquote > .author {
+blockquote {
+  border-left: solid 2px lightgrey;
+}
+
+blockquote .author {
   text-align: right;
+}
+
+blockquote {
+  margin: 20px 0 20px 0;
+  padding-left: 40px;
 }
 
 .author:before {
   content: "~ ";
 }
+
