@@ -45,7 +45,7 @@ But what about the places we don’t want to remain?
 <p class="author">Dr. Christine Blasey Ford</p>
 </blockquote>
 
-I’ll relate one more dream, a place I have not visited in a long time. My childhood hometown sits next to a large reservoir, Grapevine Lake, contained by a long earthen dam. A road runs along the top of the dam, and I remember seeing, from the safety of the car, the mammoth pipes and metal gates that opened out onto a rubble-strewn spillway on the dry side of the dam. 
+I’ll relate one more dream, a place I have not visited in a long time. My childhood hometown sits next to a large reservoir, Grapevine Lake, which is contained by a long earthen dam. A road runs along the top of the dam, and I remember seeing, from the safety of the car, the mammoth pipes and metal gates that opened out onto a rubble-strewn spillway on the dry side of the dam. 
 
 Something about the scale of the waterworks, the crushing power of the lake pushing against this thin, man-made structure, and the mysterious controls which could unleash the power of the entire reservoir — something about this dam inspired a deep-felt terror in me. I would imagine myself taken up in the current, my ragdoll body pulled deep into vast, inescapable pipes. The dam symbolized all things awe-inspiring and dangerous. 
 
