@@ -1,3 +1,7 @@
+:root {
+  --line-width: 55ch;
+}
+
 body {
   width: 100vw;
   margin: 0 0 20px 0;
@@ -43,7 +47,6 @@ h4:before {
 }
 
 p, pre {
-  max-width: 45ch;
   line-height: 1.3em;
 }
 
@@ -83,7 +86,7 @@ figure {
 }
 
 figure > img {
-  width: 50ch;
+  width: var(--line-width);
   max-width: 100%;
   margin-bottom: 10px;
 }
@@ -104,5 +107,26 @@ footer > * {
 
 #tr {
   text-align: center;
+}
+
+.article {
+  max-width: var(--line-width);
+}
+
+blockquote {
+  border-left: solid 2px lightgrey;
+}
+
+blockquote .author {
+  text-align: right;
+}
+
+blockquote {
+  margin: 20px 0 20px 0;
+  padding-left: 40px;
+}
+
+.author:before {
+  content: "~ ";
 }
 
