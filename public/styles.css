@@ -113,10 +113,6 @@ footer > * {
   max-width: var(--line-width);
 }
 
-blockquote {
-  border-left: solid 2px lightgrey;
-}
-
 blockquote .author {
   text-align: right;
 }
