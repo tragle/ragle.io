@@ -73,6 +73,10 @@ a {
   color: black;
 }
 
+p a {
+  text-decoration: underline dotted;
+}
+
 a:hover {
   background-color: lightgrey;
 }
