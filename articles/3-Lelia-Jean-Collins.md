@@ -2,7 +2,7 @@
 
 #### November 28, 2018
 
-<em>A couple of days after mentioning my grandma in <a href="/articles/2-who-has-not-visited-a-place-like-this">this piece</a>, my mom called to let me know she had died. I felt shocked and heartbroken. I quickly wrote an obituary for the</em> Weatherford Democrat<em>, reproduced below. Writing the obituary has helped me come to terms with these events, and today I prepare to fly back to Texas, visiting the very places I wrote about, and dreamed about, in order to celebrate one life, and close a chapter in my own.</em>
+<em>A couple of days after mentioning my grandma in <a href="/articles/2-who-has-not-visited-a-place-like-this">this piece</a>, my mom called to let me know she had died. I felt shocked and heartbroken, but quickly wrote an obituary for the</em> Weatherford Democrat<em>, reproduced below. Writing the obituary has helped me come to terms with these events, and today I prepare to fly back to Texas, visiting the very places I wrote about, and dreamed about, in order to celebrate one life, and close a chapter in my own.</em>
 
 <center>~</center>
 
