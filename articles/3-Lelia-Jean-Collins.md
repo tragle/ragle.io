@@ -20,6 +20,11 @@ She later found work as a hotel switchboard operator, and with it money, clothes
 
 In the early 1950’s, Lelia met one Neil Collins, a skinny, funny, country lad from Aledo, Texas, and married him. The two eventually bought an old, converted, rock-faced circuit church in Aledo situated on a prominent hill overlooking miles of pasture, and in this quiet and idyllic setting they raised three children — Janie, Michael, and Martha — as well as the occasional calf, dog, or grandchild. Over the years their home became “The House,” the natural home base and meeting place for the entire extended family, a fact Lelia took great pride in.
 
+<figure>
+  <img src="/img/Grandma.jpg" alt="Grandma" />
+  <figcaption>Grandma (and me)</figcaption>
+</figure>
+
 A Master Gardener, she found peace tending to her vegetables, ornamentals, and roses, and felt closer to a higher power out in the yard than she ever did in church. She saw hidden beauty in unlikely places, and would sometimes pick a problem spot behind a fence or along the roadside and clean it up so the rest of the world could see its beauty, too. She performed these acts of community service quietly and privately. 
 
 Lelia kept a balanced checkbook and paid the bills with diligence, even in lean times. She clipped coupons religiously, using the coupons to buy up surplus groceries that she’d then donate to local Parker County food pantries. She loved to cook for others — pancakes, fried chicken, pimiento cheese sandwiches, spaghetti, fudge, anything in the Betty Crocker cookbook — and loved to give away surplus food. At sundown she’d leave table scraps at the edge of the property for animals to eat. She hated the thought of anyone going hungry. 
@@ -27,6 +32,8 @@ Lelia kept a balanced checkbook and paid the bills with diligence, even in lean 
 Though Lelia preferred a life at home, Neil’s work in the defense industry entailed a good deal of travel, and so she found herself a temporary resident of locations as far flung as Arizona, California, Germany, Florida, Utah, New Mexico, Korea, and even New Jersey. Her worldliness extended to art and literature, as well: Lelia read everything from the classics to Tony Hillerman to the local newspaper voraciously; collected Texas art and Blue Willow china; loved movies and TV — especially Jeopardy, Wheel of Fortune, PBS, and silly sitcoms; and listened to all kinds of music, from Mozart to K. T. Oslin, Simon and Garfunkel, Ray Price, and Michael Bublé. She had a surprisingly natural musicality, and would often sing or hum melodiously while cooking or rocking in her chair.
 
 Above all, Lelia adored her family, and would do anything to help and provide for them. Anyone who ever crossed her or her loved ones learned about her tough, stubborn side, as she had little fear of anyone or anything, except maybe flying. But her laughter, keen wit, twinkling eyes, and unassuming goodness will live on in all those she knew. We will always love her. 
+
+
 
 ##### TR
 
