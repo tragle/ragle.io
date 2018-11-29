@@ -18,12 +18,12 @@ She arrived in Fort Worth at the age of 12, her face black with the soot of her 
 
 She later found work as a hotel switchboard operator, and with it money, clothes, shoes — she loved a good pair of stand-out shoes — and she continued to have lively phone conversations long after leaving that job. Once she got going she would speak with much interest and animation, making good use of the old-fashioned “why,” as in “Why, I just saw Mrs. Lambert yesterday at Luby’s,” sometimes closing a particularly energetic elocution with a cheerfully sighed “Oh, me!” She would then cut the conversation short a little while later to save on long-distance bills. 
 
-In the early 1950’s, Lelia met one Neil Collins, a skinny, funny, country lad from Aledo, Texas, and married him. The two eventually bought an old, converted, rock-faced circuit church in Aledo situated on a prominent hill overlooking miles of pasture, and in this quiet and idyllic setting they raised three children — Janie, Michael, and Martha — as well as the occasional calf, dog, or grandchild. Over the years their home became “The House,” the natural home base and meeting place for the entire extended family, a fact Lelia took great pride in.
-
 <figure>
   <img src="/img/Grandma.jpg" alt="Grandma" />
   <figcaption>Grandma (and me)</figcaption>
 </figure>
+
+In the early 1950’s, Lelia met one Neil Collins, a skinny, funny, country lad from Aledo, Texas, and married him. The two eventually bought an old, converted, rock-faced circuit church in Aledo situated on a prominent hill overlooking miles of pasture, and in this quiet and idyllic setting they raised three children — Janie, Michael, and Martha — as well as the occasional calf, dog, or grandchild. Over the years their home became “The House,” the natural home base and meeting place for the entire extended family, a fact Lelia took great pride in.
 
 A Master Gardener, she found peace tending to her vegetables, ornamentals, and roses, and felt closer to a higher power out in the yard than she ever did in church. She saw hidden beauty in unlikely places, and would sometimes pick a problem spot behind a fence or along the roadside and clean it up so the rest of the world could see its beauty, too. She performed these acts of community service quietly and privately. 
 
