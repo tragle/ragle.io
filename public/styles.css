@@ -54,6 +54,7 @@ p {
   font-size: 18px;
   text-align: justify;
   hyphens: auto; 
+  -webkit-hyphens: auto; 
 }
 
 p:first-of-type {
@@ -75,6 +76,7 @@ a {
 
 p a {
   text-decoration: underline dotted;
+  -webkit-text-decoration: underline dotted;
 }
 
 a:hover {
