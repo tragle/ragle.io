@@ -59,8 +59,8 @@ pre {
   font-size: 16px;
   padding-left: 2ch;
   border-left: solid 1px lightgrey;
-  overflow-x: scroll;
   margin: 30px auto;
+  white-space: pre-wrap;
 }
 
 a {
