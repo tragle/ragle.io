@@ -23,7 +23,7 @@ I spent summers with my mom. She met a handsome electrical engineer and moved to
 
 My mom married him, they moved into an A-frame house on the foothills of Pikes Peak, and at age 12 I moved in, too. In my room I had the Atari 2600, the TI-99/4A, the TV, a stereo receiver, turntable, sturdy loft bed, and a bean bag chair. I felt happy, comfortable, and secure, but I hadn’t made many friends yet, so I started to experiment with programming the TI-99/4A. 
 
-To use the TI-99/4A, you have to type commands in a language called BASIC. A line number prefixes each command in a BASIC program, and by using the special `GOTO` command, you can tell the computer to jump to the command on that line. My first BASIC program looked something like this:
+To use the TI-99/4A, you have to type commands in a language called <nobr>BASIC</nobr>. A line number prefixes each command in a <nobr>BASIC</nobr> program, and by using the special `GOTO` command, you can tell the computer to jump to the command on that line. My first <nobr>BASIC</nobr> program looked something like this:
 
 ```
 10 PRINT "TOM IS AWESOME"
@@ -46,7 +46,7 @@ TOM IS AWESOME
 
 To stop the `TOM IS AWESOME`, you had to reset the computer. But with this first program, I had learned two important programming concepts — looping and recursion — though I didn’t know those terms at the time.
 
-The TI-99/4A came with an instruction manual listing all the BASIC commands, called _Beginner’s BASIC_, but I didn’t really know how to put the commands together to do more interesting things. However, a magazine called _99’er_ existed for TI-99/4A enthusiasts, and a large portion of each issue of _99’er_ consisted of printed code for small programs. I had a couple of copies of this magazine. 
+The TI-99/4A came with an instruction manual listing all the <nobr>BASIC</nobr> commands, called _Beginner’s <nobr>BASIC</nobr>_, but I didn’t really know how to put the commands together to do more interesting things. However, a magazine called _99’er_ existed for TI-99/4A enthusiasts, and a large portion of each issue of _99’er_ consisted of printed code for small programs. I had a couple of copies of this magazine. 
 
 <figure>
   <img src="/img/Beginners_BASIC.png" alt="Beginner’s BASIC" />
@@ -55,7 +55,7 @@ The TI-99/4A came with an instruction manual listing all the BASIC commands, cal
 
 To run a program, I would painstakingly transcribe each line of code into the computer. Any mistake in transcription meant the program would fail, and I would have to figure out what went wrong. In this way I learned another important programming concept: debugging.
 
-I don’t remember what these magazine programs did. I think a lot of them helped balance your checkbook. I wanted to do more interesting things. I noticed an example command in _Beginner’s BASIC_:
+I don’t remember what these magazine programs did. I think a lot of them helped balance your checkbook. I wanted to do more interesting things. I noticed an example command in _Beginner’s <nobr>BASIC</nobr>_:
 
 ```
 CALL SOUND(1000,440,2)
@@ -63,7 +63,7 @@ CALL SOUND(1000,440,2)
 
 The manual explained that this command plays the note “A” for one second. So now I could use the TI-99/4A to make music, but what’s more, I had learned another programming concept: function calls. In this case, the `CALL SOUND` function has arguments (inside the parentheses) corresponding to controls which make the computer play different sounds. `1000` means “1000 milliseconds (i.e., one second)”, `440` means 440 Hertz, and `2` means “volume level 2.”
 
-Later on in _Beginner’s BASIC_ I saw a section on generating random numbers. What if I could put random numbers into `CALL SOUND`? What noises would come out?
+Later on in _Beginner’s <nobr>BASIC</nobr>_ I saw a section on generating random numbers. What if I could put random numbers into `CALL SOUND`? What noises would come out?
 
 After a lot of experimentation, I wrote a program that looks something like this:
 
@@ -77,7 +77,7 @@ This would generate a new random number between 0 and 1, assign it to `RND`, the
 
 After running the program, the computer sang a wonderfully atonal, 8-bit melody. I showed my creation off, then refined the program further using other features of `CALL SOUND`, like white noise generation and chords.  
 
-Eventually I wanted to create non-random music, and in the appendix of _Beginner’s BASIC_ found a chart listing the frequencies of the notes on a piano. I did not have a piano, but the TI-99/4A has a keyboard, so I wrote a program that maps the letters on the computer keyboard to the notes on a piano, complete with sharps and flats (on the upper row of letters). This program had a lot more than 3 lines, so I needed a way to store it if I wanted to re-run it without typing in all the commands each time.
+Eventually I wanted to create non-random music, and in the appendix of _Beginner’s <nobr>BASIC</nobr>_ found a chart listing the frequencies of the notes on a piano. I did not have a piano, but the TI-99/4A has a keyboard, so I wrote a program that maps the letters on the computer keyboard to the notes on a piano, complete with sharps and flats (on the upper row of letters). This program had a lot more than 3 lines, so I needed a way to store it if I wanted to re-run it without typing in all the commands each time.
 
 You could buy really nice peripherals for the TI-99/4A, but they cost a lot of money. Magazine ads showed fully decked-out systems with hard drives, speech synthesizers, and modems. These setups cost thousands of dollars. I didn’t have that kind of money, but I did have a tape recorder and an inexpensive “cassette interface cable.” 
 

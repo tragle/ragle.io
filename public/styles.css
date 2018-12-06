@@ -1,5 +1,5 @@
 :root {
-  --line-width: 55ch;
+  --line-width: 65ch;
 }
 
 body {
@@ -57,10 +57,11 @@ p:first-of-type {
 
 pre {
   font-size: 16px;
-  padding-left: 2ch;
+  padding-left: 1ch;
   border-left: solid 1px lightgrey;
   margin: 30px auto;
   white-space: pre-wrap;
+  word-spacing: -2px;
 }
 
 a {

@@ -6,7 +6,7 @@
 
 <center>~</center>
 
-Lelia Jean Collins, whose quiet generosity of spirit touched all those who knew her, and many folks she never met, died on November 26, 2018, while sleeping peacefully in her favorite easy chair. Her three children, eight grandchildren, nine great-grandchildren, and her many friends, family, neighbors, pals, and acquaintances will miss her dearly.
+Lelia Jean Collins, whose quiet generosity of spirit touched all those who knew her, and many folks she never met, died on <nobr>November</nobr> 26, 2018, while sleeping peacefully in her favorite easy chair. Her three children, eight grandchildren, nine great-grandchildren, and her many friends, family, neighbors, pals, and acquaintances will miss her dearly.
 
 Funeral services will be held on Friday, November 30 at White’s Funeral Home, 130 Houston Avenue, in Weatherford. General visitation will be open to the public from noon until 2. Lelia’s body will then be put to rest in Brown Cemetery, Aledo.
 
