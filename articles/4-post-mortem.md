@@ -195,4 +195,9 @@ And I realized that my 8-year-old self, upon finding a deserted stretch of road 
 
 Maybe this dam and artificial lake it creates will endure after generations of people and their houses have come and gone. Or maybe one day the iron gates of the spillway will break, the water rushing to the other side, the lake emptying out to uncover once-sunken fishing lures and beer cans. I thought these things as an airliner, taking off from Dallas/Fort Worth Airport, flew overhead, glinting in the sun, silvery as a fish, seemingly close enough to touch. The next day, I boarded my own flight, and returned home. 
 
+##### TR
 
+<footer>
+<a href="/articles/3-Lelia-Jean-Collins">previous</a>
+<a id="contact" href="mailto:tragle@gmail.com">contact</a>
+</footer>

@@ -40,4 +40,5 @@ Above all, Lelia adored her family, and would do anything to help and provide fo
 <footer>
 <a href="/articles/2-who-has-not-visited-a-place-like-this">previous</a>
 <a id="contact" href="mailto:tragle@gmail.com">contact</a>
+<a href="/articles/4-post-mortem">next</a>
 </footer>
