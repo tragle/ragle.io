@@ -2,7 +2,7 @@
 
 #### December 8, 2018
 
-Last week, I flew down to Texas to attend my grandmother’s funeral. I took the opportunity to not only reconnect with family, but to see firsthand many of the places that figure prominently in my history and imagination. Just as writing my grandmother’s obituary has helped, in some small way, to find a purpose in her passing, inhabiting the transformed landscape of my youth for a few days has helped me to understand my place in a larger story.
+Last week, I flew down to Texas to attend my grandmother’s funeral. I took the opportunity to not only reconnect with family, but to see firsthand many of the places that <a href="/articles/2-who-has-not-visited-a-place-like-this">figure prominently in my history and imagination</a>. Just as <a href="/articles/3-Lelia-Jean-Collins">writing my grandmother’s obituary</a> has helped, in some small way, to find a purpose in her passing, inhabiting the transformed landscape of my youth for a few days has helped me to understand my place in a larger story.
 
 <figure>
   <img src="/img/funeral/Welcome_to_Dallas.jpg" alt="Welcome to Dallas" />
