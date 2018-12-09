@@ -11,7 +11,7 @@ Last week, I flew down to Texas to attend my grandmother’s funeral. I took the
 </figure>
 
 
-My flight landed at Love Field on an unseasonably warm afternoon, and I drove a rental car through the sprawling Dallas/Fort Worth Metroplex to Southlake, one of the many suburbs of Dallas. I lived in neighboring Grapevine as a school-age boy, and it so happens that my brother-in-law and his family moved to this same area from the northeast a few years ago. They kindly offered a spare room for the duration of my trip. 
+My flight landed at Love Field on an unseasonably warm afternoon, and I drove a rental car through the sprawling Dallas/Fort Worth Metroplex to Southlake, one of the many suburbs of Dallas. I lived in <nobr>neighboring</nobr> Grapevine as a school-age boy, and it so happens that my brother-in-law and his family moved to this same area from the northeast a few years ago. They kindly offered a spare room for the duration of my trip. 
 
 <figure>
   <img src="/img/funeral/Southlake.jpg" alt="Southlake" />
@@ -39,7 +39,7 @@ The backyard faced out onto open prairie, and I thought of her sitting on the po
   <figcaption>Prairie, with buzzard</figcaption>
 </figure>
 
-After the funeral, my sister and I visited the old house in Aledo, where my grandparents lived for many years. As a child I felt at home in this place — the old stone house, the sagging barn, surrounded by a sea of pastures and wild grassland — but now the house sat uninhabited, bereft of life, like a corpse. I felt only a superficial connection to this once-familiar place, just I felt only a superficial connection to the body in the casket earlier that day. 
+After the funeral, my sister and I visited the old house in Aledo, where my grandparents lived for many years. As a child I felt at home in this place — the old stone house, the sagging barn, surrounded by a sea of pastures and wild grassland — but now the house sat uninhabited, bereft of life, like a corpse. I felt only a superficial connection to this once-familiar place, just as I felt only a superficial connection to the body in the casket earlier that day. 
 
 Wandering the grounds, I encountered a 3-foot long snakeskin, dry and brittle but fully intact. I took it, thankful for the good omen.
 
