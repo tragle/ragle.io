@@ -18,7 +18,7 @@ My flight landed at Love Field on an unseasonably warm afternoon, and I drove a 
   <figcaption>Southlake</figcaption>
 </figure>
 
-Their house sits on newly-developed ranchland that still sees the occassional roadrunner (now darting along bone-white sidewalks), or even a cautious bobcat. Grand, comfortable McMansions line deserted streets with vaguely Anglo-Saxon names. The quiet, the big, blue Texas sky, and the mass-produced homes seemed at once alien and familiar. The night sky appeared surprisngly dark considering the number of Chrismas lights in the neighborhood.
+Their house sits on newly-developed ranchland that still sees the occassional roadrunner (now darting along bone-white sidewalks), or even a cautious bobcat. Grand, comfortable McMansions line deserted streets with vaguely Anglo-Saxon names. The quiet, the big, blue Texas sky, and the mass-produced homes seemed at once alien and familiar. The night sky appeared surprisngly dark considering the number of Christmas lights in the neighborhood.
 
 <figure>
   <img src="/img/funeral/night_sky.jpg" alt="Night sky" />
