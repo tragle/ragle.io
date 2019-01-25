@@ -53,7 +53,7 @@ struct AppState {
 }
 ```
 
-Actix responds to requests from the web asynchronously using an actor-based model. The `AppState` struct contains global data that each Actix worker will have available to it. 
+Actix responds to requests from the web asynchronously using an actor-based model. We define an `AppState` struct to contain global data which each Actix worker will have available to it. 
 
 The `channel` field holds a one-way messaging message channel through which Actix will communicate to another thread. 
 
