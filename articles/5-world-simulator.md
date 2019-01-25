@@ -67,7 +67,7 @@ fn index(req: &HttpRequest<AppState>) -> HttpResponse {
     channel.send(1).unwrap();
 ```
 
-Each time a visitor looks at the world simulator, Actix sends the network request into a copy of this function, and the function returns a response which Actix will serve back to the visitor. The request contains a reference to the `AppState` struct described earlier, and from that, the handler function will get a reference to the messaging channel, and send the number `1` through it. Later we’ll inspect the other end of the channel, and see where the `1` goes.
+Each time a visitor looks at the world simulator, Actix sends the network request into a copy of this function, and the function returns a response which Actix will serve back to the visitor. The request contains a reference to an instance of the `AppState` struct described earlier, and from that, the handler function will get a reference to the messaging channel, and send the number `1` through it. Later we’ll inspect the other end of the channel, and see where the `1` goes.
 
 ```rust
   let word = &req.state().word.lock().unwrap().clone();
@@ -197,7 +197,7 @@ Finally we overwrite the world file with the new contents.
 
 Back in the main thread we can start the web server, passing in the handler, instantiating an initial `AppState` struct, and binding to the network `port` provided in the arguments.
 
-Rust’s safety features will ensure that the program, once started, will continue to run unless one of the error conditions explicitly called out in the code, such as filesystem I/O errors, occurs. It will handle concurrent access to mutable data, and updating a single file from multiple requests, in a predictable manner. If everything goes well, it will crash explicitly and intentionally at the end of the world’s life.
+Rust’s safety features ensure that we write a program that, once started, will continue to run unless one of the error conditions explicitly called out in the code, such as filesystem I/O errors, occurs. The program will handle concurrent access to mutable data, and updating a single file from multiple requests, in a predictable manner. If everything goes well, it will crash explicitly and intentionally at the end of the world’s life.
 
 ##### TR
 
