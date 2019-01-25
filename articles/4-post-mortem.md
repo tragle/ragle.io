@@ -200,4 +200,5 @@ Maybe this dam and artificial lake it creates will endure after generations of p
 <footer>
 <a href="/articles/3-Lelia-Jean-Collins">previous</a>
 <a id="contact" href="mailto:tragle@gmail.com">contact</a>
+<a href="/articles/5-world-simulator">next</a>
 </footer>

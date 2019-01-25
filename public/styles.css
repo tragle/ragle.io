@@ -127,3 +127,11 @@ blockquote {
   content: "~ ";
 }
 
+li > p {
+  margin-top: 0;
+}
+
+li > p:first-of-type {
+  margin-top: 0;
+}
+

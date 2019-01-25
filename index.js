@@ -31,7 +31,7 @@ const formatHomePage = (md) => {
 };
 
 app.get('/', (req, res) => {
-  const file = path.join(__dirname, 'articles', '4-post-mortem.md');
+  const file = path.join(__dirname, 'articles', '5-world-simulator.md');
   fs.readFile(file, (err, data) => {
     res.append('Content-Type', 'text/html');
     const text = data.toString();
