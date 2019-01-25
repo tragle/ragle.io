@@ -70,29 +70,29 @@ fn index(req: &HttpRequest<AppState>) -> HttpResponse {
 Each time a visitor looks at the world simulator, Actix sends the network request into a copy of this function, and the function returns a response which Actix will serve back to the visitor. The request contains a reference to the `AppState` struct described earlier, and from that, the handler function will get a reference to the messaging channel, and send the number `1` through it. Later we’ll inspect the other end of the channel, and see where the `1` goes.
 
 ```rust
-let word = &req.state().word.lock().unwrap().clone();
-let style = "body { 
-    font-family: 'Charter', Palatino, serif; 
-    font-size: 72px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    height: 100%;
-    margin: 0;
-}";
-let html = format!(
-    "<html>
-        <head>
-            <title>world simulator</title>
-            <style>{}</style>
-        </head>
-    <body>
-        {}
-    </body>",
-    style, word
-);
-HttpResponse::Ok().body(html)
+  let word = &req.state().word.lock().unwrap().clone();
+  let style = "body { 
+      font-family: 'Charter', Palatino, serif; 
+      font-size: 72px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100%;
+      margin: 0;
+  }";
+  let html = format!(
+      "<html>
+          <head>
+              <title>world simulator</title>
+              <style>{}</style>
+          </head>
+      <body>
+          {}
+      </body>",
+      style, word
+  );
+  HttpResponse::Ok().body(html)
 }
 ```
 
