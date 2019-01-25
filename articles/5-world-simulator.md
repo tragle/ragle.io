@@ -55,9 +55,9 @@ struct AppState {
 
 Actix responds to requests from the web asynchronously using an actor-based model. We define an `AppState` struct to contain global data which each Actix worker will have available to it. 
 
-The `channel` field holds a one-way messaging message channel through which Actix will communicate to another thread. 
+The `channel` field holds a one-way messaging channel through which Actix will communicate to another thread. 
 
-The `word` field holds the next word that the world simulator will display. In order to prevent multiple areas of the code from attempting to access the word simultaneously, a mutex holds the word behind a lock, and in order to give multiple areas of the code memory-safe access to the mutex, an Arc holds the mutex. The Arc (atomic reference count) will keep track of references to the mutex across all threads, so the program can free memory when references go out of scope.
+The `word` field holds the next word the world simulator will display. In order to prevent multiple areas of the code from attempting to access the word simultaneously, a mutex holds the word behind a lock, and in order to give multiple areas of the code memory-safe access to the mutex, an Arc holds the mutex. The Arc (atomic reference count) will keep track of references to the mutex across all threads, so the program can free memory when references go out of scope.
 
 Next comes the request handler for the Actix server process.
 
@@ -197,7 +197,7 @@ Finally we overwrite the world file with the new contents.
 
 Back in the main thread we can start the web server, passing in the handler, instantiating an initial `AppState` struct, and binding to the network `port` provided in the arguments.
 
-Rust’s safety features ensure that we write a program that, once started, will continue to run unless one of the error conditions explicitly called out in the code, such as filesystem I/O errors, occurs. The program will handle concurrent access to mutable data, and updating a single file from multiple requests, in a predictable manner. If everything goes well, it will crash explicitly and intentionally at the end of the world’s life.
+Rust’s safety features ensure we write a program that, once started, will continue to run unless one of the error conditions explicitly called out in the code, such as filesystem I/O errors, occurs. The program will handle concurrent access to mutable data, and updating a single file from multiple requests, in a predictable manner. If everything goes well, it will crash explicitly and intentionally at the end of the world’s life.
 
 ##### TR
 
