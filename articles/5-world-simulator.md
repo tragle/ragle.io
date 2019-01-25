@@ -22,7 +22,7 @@ Then I wrote a simple program, called the _world simulator_, which obeys these r
 
 * After this, the world simulator loads a file from disk. The file contains a shuffled list of all, or almost all, nouns in the English language. This represents all things that will ever exist.
 
-* The next viewer sees the word at the top of the list, representing the life of that thing. The world simulator deletes this word from the file, representing its destruction.
+* The next viewer sees the word at the top of the list, representing the life of that thing. The world simulator deletes this word from the file, representing its destruction. This process repeats, consuming things from the list one by one.
 
 * The list has no duplicate items, so each viewer becomes the first and last person to see that thing. The world simulator imposes no limits on how many things a single person may view and destroy. It produces a new thing each time, and it produces it exactly once.
 
