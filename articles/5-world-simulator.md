@@ -28,7 +28,7 @@ Then I wrote a simple program, called the _world simulator_, which obeys these r
 
 * When the list of things has nothing left on it, the world simulator crashes.
 
-I also wanted to write the program in a language that has strong opinions on when and how data in a program exists, so I chose Rust. One could write a similar program in other languages, but Rust enforces a certain style and correctness that seems appropriate for this task. You can read the full source code for the world-simulator [here](https://github.com/tragle/world-simulator).
+I also wanted to write the program in a language that has strong opinions on the lifetimes of data, so I chose Rust. One could write a similar program in other languages, but Rust enforces a certain style and correctness that seems appropriate for this task. You can read the full source code for the world-simulator [here](https://github.com/tragle/world-simulator).
 
 Let’s look at `main.rs` line-by-line.
 
