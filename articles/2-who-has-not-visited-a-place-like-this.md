@@ -70,4 +70,5 @@ And I wonder if, in the last moments of dying, we lose the faculty of time, and 
 <a href="/articles/1-my-first-computer">previous</a>
 <a id="home" href="/">home</a>
 <a id="contact" href="mailto:tragle@gmail.com">contact</a>
+<a href="/articles/3-Lelia-Jean-Collins">next</a>
 </footer>
