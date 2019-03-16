@@ -1,8 +1,8 @@
-<h1><a href="/articles/4-post-mortem">Post-Mortem</a></h1>
+# Post-Mortem
 
 #### December 8, 2018
 
-Last week, I flew down to Texas to attend my grandmother’s funeral. I took the opportunity to not only reconnect with family, but to see firsthand many of the places that <a href="/articles/2-who-has-not-visited-a-place-like-this">figure prominently in my history and imagination</a>. Just as <a href="/articles/3-Lelia-Jean-Collins">writing my grandmother’s obituary</a> has helped, in some small way, to find a purpose in her passing, inhabiting the transformed landscape of my youth for a few days has helped me to understand my place in a larger story.
+Last week, I flew down to Texas to attend my grandmother’s funeral. I took the opportunity to not only reconnect with family, but to see firsthand many of the places that <a href="/articles/2-who-has-not-visited-a-place-like-this.html">figure prominently in my history and imagination</a>. Just as <a href="/articles/3-Lelia-Jean-Collins.html">writing my grandmother’s obituary</a> has helped, in some small way, to find a purpose in her passing, inhabiting the transformed landscape of my youth for a few days has helped me to understand my place in a larger story.
 
 <figure>
   <img src="/img/funeral/Welcome_to_Dallas.jpg" alt="Welcome to Dallas" />
@@ -196,9 +196,3 @@ And I realized that my 8-year-old self, upon finding a deserted stretch of road 
 Maybe this dam and artificial lake it creates will endure after generations of people and their houses have come and gone. Or maybe one day the iron gates of the spillway will break, the water rushing to the other side, the lake emptying out to uncover once-sunken fishing lures and beer cans. I thought these things as an airliner, taking off from Dallas/Fort Worth Airport, flew overhead, glinting in the sun, silvery as a fish, seemingly close enough to touch. The next day, I boarded my own flight, and returned home. 
 
 ##### TR
-
-<footer>
-<a href="/articles/3-Lelia-Jean-Collins">previous</a>
-<a id="contact" href="mailto:tragle@gmail.com">contact</a>
-<a href="/articles/5-world-simulator">next</a>
-</footer>

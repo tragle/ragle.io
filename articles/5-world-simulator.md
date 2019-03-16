@@ -1,4 +1,4 @@
-<h1><a href="/articles/5-world-simulator">World Simulator</a></h1>
+# World Simulator
 
 #### January 24, 2019
 
@@ -200,8 +200,3 @@ Back in the main thread we can start the web server, passing in the handler, ins
 Rust’s safety features ensure we write a program that, once started, will continue to run unless one of the error conditions explicitly called out in the code, such as filesystem I/O errors, occurs. The program will handle concurrent access to mutable data, and updating a single file from multiple requests, in a predictable manner. If everything goes well, it will crash explicitly and intentionally at the end of the world’s life.
 
 ##### TR
-
-<footer>
-<a href="/articles/4-post-mortem">previous</a>
-<a id="contact" href="mailto:tragle@gmail.com">contact</a>
-</footer>

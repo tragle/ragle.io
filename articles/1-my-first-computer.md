@@ -1,4 +1,4 @@
-<h1><a href="/articles/1-my-first-computer">My first computer</a></h1>
+# My first computer
 
 #### September 9, 2018
 
@@ -91,9 +91,3 @@ To save a program, you would plug the tape recorder into the side of the compute
 Eventually my family got a clone of the IBM XT, larger and more powerful than the TI-99/4A. But I didn’t have quite as much fun with the XT. The TI-99/4A had given me that first thrill of discovery, when the program runs without crashing and the computer briefly seems to become a living creature. Over the years I have come back to programming again and again to relive that feeling.
 
 ##### TR
-
-<footer>
-<a id="contact" href="mailto:tragle@gmail.com">contact</a>
-<a id="home" href="/">home</a>
-<a href="/articles/2-who-has-not-visited-a-place-like-this">next</a>
-</footer>

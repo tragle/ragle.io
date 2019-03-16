@@ -1,8 +1,8 @@
-<h1><a href="/articles/3-Lelia-Jean-Collins">Lelia Jean Collins</a></h1>
+# Lelia Jean Collins
 
 #### November 28, 2018
 
-<em>A couple of days after mentioning my grandma in <a href="/articles/2-who-has-not-visited-a-place-like-this">this piece</a>, my mom called to let me know she had died. I felt shocked and heartbroken, but quickly wrote an obituary for the</em> Weatherford Democrat<em>, reproduced below. Writing the obituary has helped me come to terms with these events, and today I prepare to fly back to Texas, visiting the very places I wrote about, and dreamed about, in order to celebrate one life, and close a chapter in my own.</em>
+<em>A couple of days after mentioning my grandma in <a href="/articles/2-who-has-not-visited-a-place-like-this.html">this piece</a>, my mom called to let me know she had died. I felt shocked and heartbroken, but quickly wrote an obituary for the</em> Weatherford Democrat<em>, reproduced below. Writing the obituary has helped me come to terms with these events, and today I prepare to fly back to Texas, visiting the very places I wrote about, and dreamed about, in order to celebrate one life, and close a chapter in my own.</em>
 
 <center>~</center>
 
@@ -33,12 +33,4 @@ Though Lelia preferred a life at home, Neil’s work in the defense industry ent
 
 Above all, Lelia adored her family, and would do anything to help and provide for them. Anyone who ever crossed her or her loved ones learned about her tough, stubborn side, as she had little fear of anyone or anything, except maybe flying. But her laughter, keen wit, twinkling eyes, and unassuming goodness will live on in all those she knew. We will always love her. 
 
-
-
 ##### TR
-
-<footer>
-<a href="/articles/2-who-has-not-visited-a-place-like-this">previous</a>
-<a id="contact" href="mailto:tragle@gmail.com">contact</a>
-<a href="/articles/4-post-mortem">next</a>
-</footer>
