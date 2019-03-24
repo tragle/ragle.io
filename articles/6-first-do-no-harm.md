@@ -133,3 +133,5 @@ At that young age I didn’t fully understand the implications of going to war, 
 My family has a long history of military service, and I accept that not everyone has the streak of pacifistic idealism that I hold, but I wonder how attractive the military would look without the technological flash of war machines, and the personal betterment promised by recruiters. Maybe it would look more like a profitable enterprise engaged in mass murder and less like a necessary protector of personal freedom.
 
 The software developer, and indeed each of us, has the same task when evaluating what to work on, and who to work for: to remove technological flash and prospect of growth, to ignore the comforts of the workplace, and ask, “what kind of world will this contribute to?” The option to do no harm exists always, if we look hard enough.
+
+##### TR
