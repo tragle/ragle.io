@@ -37,9 +37,9 @@ Worse, when pilots attempt to manually correct the issue by pulling on the yoke,
 
 If you rent a car, you can expect it to have a cruise control. And though the cruise control buttons on some cars have a more intuitive design that other cars, in all cases you can disengage the cruise control by tapping on the brake pedal. 
 
-Imagine renting a car with an “augmented cruise control” which cannot be shut off except by pushing a special button on the dashboard. Imagine further that when this new cruise control results in fatal crashes, the manufacturer responds “our hearts go out to the families, but the drivers should have read the manual.” Boeing had a similar response after Lion Air 610 went down.
+Imagine renting a car with an “augmented cruise control” which you cannot shut off except by pushing a special button on the dashboard. Imagine further that when this new cruise control results in fatal crashes, the manufacturer responds “our hearts go out to the families, but the drivers should have read the manual.” Boeing had a similar response after Lion Air 610 went down.
 
-Because of its poorly-designed flight control system, two 737 Max 8’s have crashed in 6 months, killing hundreds of people. Boeing engineers have unquestionably hurt people. Whatever quality-control processes Boeing has in place, whatever engineering culture they have, cannot be deemed adequate by any measure. 
+Because of its poorly-designed flight control system, two 737 Max 8’s have crashed in 6 months, killing hundreds of people. Boeing engineers have unquestionably hurt people. Whatever quality-control processes Boeing has in place, whatever engineering culture they have, one cannot deem adequate by any measure. 
 
 As the largest aircraft manufacturer in the United States and one of the largest companies in the world, Boeing wields enormous wealth and power. The Federal Aviation Administration, which ostensibly ensures that aircraft meet safety standards, allows Boeing to “self-certify” under a special program. The aviation industry has thus achieved complete, and convenient, regulatory capture.
 
@@ -100,7 +100,7 @@ pub fn get_title(markdown: &str) -> Option<&str> {
 }
 ```
 
-You can see in the first line of the function that it produces an `Option<&str>`, that is, either `Some` string slice, or `None`. These two branches appear in the last few lines of the function, which returns either `Some(title.trim())` or `None`. (The `trim` method removes extra whitespace.) Whatever code calls `get_title` must handle both cases. The markdown file may have a title, or it might not.
+You can see in the first line of the function that it produces an `Option<&str>`, i.e. either `Some` string slice, or `None`. These two branches appear in the last few lines of the function, which returns either `Some(title.trim())` or `None`. (The `trim` method removes extra whitespace.) Whatever code calls `get_title` must handle both cases. The markdown file may have a title, or it might not.
 
 In life and in code, we must deal in uncertainties. Does the Java consultant at a munitions testing outfit have the option to not write a database-migration job, since doing so would only further enable the ever-bloodier perpetuation of the by now fully entrenched military-industrial complex? If the consultant doesn’t complete the task, the company won’t have the job in a timely manner, and the consultant won’t have a job, period.
 
@@ -120,7 +120,7 @@ But when money becomes involved, it becomes more difficult to clear the *primum 
 fn do_something_shady() -> Option<Money> 
 ```
 
-Boeing engineers undoubtedly have good intentions, and I understand their love of aviation and technology. My grandfather, who I admired and respected greatly, worked as an aeronautical engineer for a defense contractor. I loved to go to work with him, to get behind-the-scenes looks at Air Force bases across the country, to sit in F-16 cockpits, to talk to the pilots, to marvel at the power and grace of these amazing machines. Before I was 10 I could identify by sight practically any military aircraft, and most airliners. At one point I dreamed of being an Air Force pilot myself.
+Boeing engineers undoubtedly have good intentions, and I understand their love of aviation and technology. My grandfather, who I admired and respected greatly, worked as an aeronautical engineer for a defense contractor. I loved to go to work with him, to get behind-the-scenes looks at Air Force bases across the country, to sit in F-16 cockpits, to talk to the pilots, to marvel at the power and grace of these amazing machines. Before age 10 I could identify by sight practically any military aircraft, and most airliners. At one point I dreamed of having a career as an Air Force pilot myself.
 
 <figure>
   <img src="/img/4th_tac.jpg" alt="4th Tactical Fighter Squadron" />
