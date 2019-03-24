@@ -60,7 +60,7 @@ Medicine has the handy rule of thumb, *primum non nocere* — “first, do no ha
 
 How much harm do the engineers in these companies do? Well, even the seemingly harmless sports VR company probably has a monetization scheme involving augmented advertising of some sort.
 
-And what about advertising? How much harm to the world does advertising do? Advertisers don’t makes bombs, right? According to the rule in medicine, it doesn’t matter — advertising definitely does *some* harm (how could polluting the public sphere in order to deceive the population into working for things they do not need in service to the profits of others not cause harm?) so it does not clear the bar.
+And what about advertising? How much harm to the world does advertising do? Advertisers don’t make bombs, right? According to the rule in medicine, it doesn’t matter — advertising definitely does *some* harm (how could polluting the public sphere in order to deceive the population into working for things they do not need in service to the profits of others not cause harm?) so it does not clear the bar.
 
 I like this kind of rule. Similar to the <a href="https://en.wikipedia.org/wiki/Bechdel_test">Bechdel test</a>, it gives a clear, unambiguous answer, on the spot. True, plenty of developers will rationalize their choice of employer by emphasizing all the *good* things their company does, or even less convincingly, of how they work with the most cutting-edge technology and with the nicest group of coworkers one could ask for. They will talk about pair coding on machine learning algorithms, but not about how they use the algorithms to build a better surveillance platform.
 
